@@ -33,6 +33,7 @@ let colors_name = "materialtheme"
 "blue   300 64b5f6
 
 hi Normal guibg=#263238 guifg=#eeeeec 
+hi VertSplit guibg=#263238 guifg=#263238
 hi SignColumn guibg=#263238
 hi LineNr guibg=#263238 guifg=#37474f
 hi NonText guibg=#263238 guifg=#37474f
@@ -40,6 +41,7 @@ hi Cursor gui=none guibg=#37474f guifg=#263238
 hi CursorLine guibg=#2b3940
 hi CursorColumn guibg=#2b3940
 hi ColorColumn guibg=#37474f
+hi SpecialKey guibg=#263238 guifg=#37474f
 
 hi Folded guibg=#37474f guifg=#80cbc4 
 " No fold column support yet 
@@ -65,8 +67,8 @@ hi Special term=underline guifg=#64b5f6
 hi Number guifg=#ffd54f gui=bold
 
 hi Search guifg=#81c784 guibg=#263238 gui=bold
-hi StatusLine guibg=#263238
-hi StatusLineNC guibg=#263238
+hi StatusLine guibg=#546e7a guifg=#263238
+hi StatusLineNC guibg=#263238 guifg=#263238
 hi TabLineFill guibg=#263238
 hi Delimiter guifg=#607d8b
 hi MatchParen guibg=#37473f guifg=#ffb74d gui=bold
