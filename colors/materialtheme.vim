@@ -42,6 +42,8 @@ hi CursorLine guibg=#2b3940
 hi CursorColumn guibg=#2b3940
 hi ColorColumn guibg=#37474f
 hi SpecialKey guibg=#263238 guifg=#37474f
+hi conceal guibg=#263238
+hi FoldColumn guibg=#263238 guifg=#607d8b gui=bold
 
 hi Folded guibg=#37474f guifg=#80cbc4 
 " No fold column support yet 
