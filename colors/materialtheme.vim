@@ -37,7 +37,7 @@ hi VertSplit guibg=#263238 guifg=#263238
 hi SignColumn guibg=#263238
 hi LineNr guibg=#263238 guifg=#37474f
 hi NonText guibg=#263238 guifg=#37474f
-hi Cursor gui=none guibg=#37474f guifg=#263238
+hi Cursor gui=none guibg=#607d8b guifg=#263238
 hi CursorLine guibg=#2b3940
 hi CursorColumn guibg=#2b3940
 hi ColorColumn guibg=#37474f
