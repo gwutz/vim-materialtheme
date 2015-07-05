@@ -44,6 +44,9 @@ hi ColorColumn guibg=#37474f
 hi SpecialKey guibg=#263238 guifg=#37474f
 hi conceal guibg=#263238
 hi FoldColumn guibg=#263238 guifg=#607d8b gui=bold
+hi PMenu guifg=#80cbc4 guibg=#37474f
+hi PMenuSel guibg=#546e7a guifg=#80cbc4
+hi SpellBad gui=undercurl guisp=#e57373 guifg=#e57373
 
 hi Folded guibg=#37474f guifg=#80cbc4 
 " No fold column support yet 
